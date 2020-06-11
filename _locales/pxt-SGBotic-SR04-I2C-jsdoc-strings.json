@@ -1,0 +1,4 @@
+{
+  "SGBotic": "HC-SR04 I2C ultrasonic sensor package for microbit Makecode.\n\nSGBotic blocks",
+  "SGBotic.pingcm": "Read ultrasonic sensor. Connect TRIG to SCL, ECHO to SDA"
+}
