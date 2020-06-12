@@ -21,7 +21,7 @@ namespace SGBotic {
         
       
         let distance = (readbuf[0]*65536+readbuf[1]*256+readbuf[2])/10000; 
-        return (distance)
+        return (Math.round(distance))
         
     }
 }

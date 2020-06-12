@@ -1,6 +1,6 @@
-# SGBotic makecode blocks for HC-SR04 I2C Ultrasonic sensor
+# SGBotic makecode blocks for HC-SR04 Ultrasonic sensor with I2C interface
 
-Makecode blocks for HC-SR04 I2C Ultrasonic sensor
+Makecode blocks for HC-SR04 Ultrasonic sensor with I2C interface
 
 ## License
 
